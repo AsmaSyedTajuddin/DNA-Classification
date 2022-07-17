@@ -1,6 +1,6 @@
 # DNA-classification-NLP
 
-Ready-made project, sourced from UDEMY COURSE
+ML Bootcamp project, source: UDEMY COURSE
 
 
 AIM -
